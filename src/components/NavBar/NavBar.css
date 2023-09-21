@@ -1,0 +1,41 @@
+nav{
+    display: flex;
+    background-color: aqua;
+    height: 10vh;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+ul{
+    margin: 5px;
+}
+
+.ul-1{
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    margin-left: 2vh;
+}
+.ul-2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 50px;
+}
+.ul-3{
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    gap: 30px;
+    margin-right: 2vh;
+}
+
+
+
+li{
+
+    list-style-type: none;
+ 
+
+    
+}
